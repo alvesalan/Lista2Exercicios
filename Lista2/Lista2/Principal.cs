@@ -18,7 +18,8 @@ namespace Lista2
             //new Exercicio06();
             //new Exercicio07();
             //new Exercicio08();
-            new Exercico09();
+            //new Exercicio09();
+            new Exercicio10();
         }
     }
 }

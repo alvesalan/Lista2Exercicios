@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Lista2
 {
-    internal class Exercico09
+    internal class Exercicio09
     {
-        public Exercico09()
+        public Exercicio09()
         {
             int N1 = 0, N2 = 0, N3 = 0, N4 = 0;
 
