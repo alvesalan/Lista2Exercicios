@@ -19,7 +19,8 @@ namespace Lista2
             //new Exercicio07();
             //new Exercicio08();
             //new Exercicio09();
-            new Exercicio10();
+            // new Exercicio10();
+            new Exercicio11();
         }
     }
 }
